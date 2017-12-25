@@ -9229,8 +9229,8 @@ progress {
         box-shadow: none;
         color: #fff; }
   .button.button-positive {
-    border-color: #0064d2;
-    background-color: #0064d2;
+    border-color: #860c9e;
+    background-color: #865198;
     color: #fff; }
     .button.button-positive:hover {
       color: #fff;
@@ -9460,7 +9460,7 @@ progress {
     border-color: transparent;
     background: none;
     box-shadow: none;
-    color: #0064d2; }
+    color: #865198; }
   .button-clear.button-icon {
     border-color: transparent;
     background: none; }
@@ -10542,10 +10542,10 @@ a.button {
  * App Branding
  */
 .mm-bglogo {
-  background-color: #ff5c00;
+  background-color: #865198;
   /* Change this to add a bg image or change color */
-  background: -webkit-radial-gradient(#ff7600, #ff5c00);
-  background: radial-gradient(#ff7600, #ff5c00);
+  background: -webkit-linear-gradient(#bf4793, #865198);
+  background: linear-gradient(#bf4793, #865198);
   background-repeat: no-repeat;
   background-position: center center;
   position: absolute;
@@ -10595,14 +10595,14 @@ a.button {
 
 .bar-content {
   border-color: transparent;
-  background-color: #f98012;
+  background-color: #865198;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff; }
   .bar-content .title {
     color: #ffffff; }
   .bar-content .button {
     border-color: transparent;
-    background-color: #f98012;
+    background-color: #86519B;
     color: #ffffff; }
     .bar-content .button:hover {
       color: #ffffff;
@@ -13237,7 +13237,7 @@ li.mm-question-answer-incorrect,
 
 .bar-side-menu {
   border-color: transparent;
-  background-color: #f98012;
+  background-color: #865198;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff;
   height: 80px !important; }
@@ -13276,13 +13276,13 @@ ion-side-menu li.item,
 ion-side-menu .mm-grades-table li.itemcenter, .mm-grades-table
 ion-side-menu li.itemcenter {
   border-color: #dddddd;
-  background-color: #ffffff;
-  color: #3a3a3a; }
+  background-color: #bf4793;
+  color: #ffffff; }
   ion-side-menu li .item .icon, ion-side-menu li .mm-grades-table .itemcenter .icon, .mm-grades-table ion-side-menu li .itemcenter .icon,
   ion-side-menu li.item .icon,
   ion-side-menu .mm-grades-table li.itemcenter .icon, .mm-grades-table
   ion-side-menu li.itemcenter .icon {
-    color: #626262; }
+    color: #ffffff; }
 
 ion-side-menu li.item.item-divider, ion-side-menu .mm-grades-table li.item-divider.itemcenter, .mm-grades-table ion-side-menu li.item-divider.itemcenter {
   background-color: #f5f5f5; }
@@ -14548,3 +14548,4 @@ ion-popover-view {
 .mma-qtype-multianswer-container input[type="radio"], .mma-qtype-multianswer-container input[type="checkbox"] {
   margin-top: -4px;
   margin-right: 7px; }
+
