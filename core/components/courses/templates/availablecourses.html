@@ -6,7 +6,7 @@
             <div ng-if="courses.length > 0">
                 <mm-course-list-item ng-repeat="course in courses track by course.id" course="course"></mm-course-list-item>
             </div>
-            <mm-empty-box ng-if="!courses.length" icon="ion-ionic" message="{{ 'mm.courses.nocourses' | translate }}"></mm-empty-box>
+            <mm-empty-box ng-if="!courses.length" icon="ion-ios-book" message="{{ 'mm.courses.nocourses' | translate }}"></mm-empty-box>
         </mm-loading>
     </ion-content>
 </ion-view>
