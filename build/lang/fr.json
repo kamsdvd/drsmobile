@@ -1496,5 +1496,6 @@
     "mma.notifications.playsound": "Jouer le son",
     "mma.notifications.therearentnotificationsyet": "Aucune notification.",
     "mma.participants.noparticipants": "Aucun participant trouvé",
-    "mma.participants.participants": "Participants"
+    "mma.participants.participants": "Participants",
+    "mm.login.searchby": "Rechercher par"
 }
