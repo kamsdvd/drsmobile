@@ -71105,7 +71105,7 @@ angular.module('mm.core')
     "demo_sites": {"student": {"url": "https://demo.darassa.com", "username": "etudiant", "password": "darassa"}, "instructeur": {"url": "https://demo.darassa.com", "username": "instructeur", "password": "darassa"}},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://192.168.1.105/darassa",
+    "siteurl": "http://192.168.1.105/darassaplatform",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
