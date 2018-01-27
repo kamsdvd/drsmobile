@@ -12,7 +12,7 @@
     "demo_sites": "",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://www.darassa.com",
+    "siteurl": "http://192.168.1.105/darassamobile",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
