@@ -3712,7 +3712,8 @@ address {
   line-height: 1.42857; }
 
 a {
-  color: #0064d2; }
+  color: #865198;
+  text-decoration: none; }
 
 a.subdued {
   padding-right: 10px;
@@ -10000,7 +10001,7 @@ a.button {
 
 .padding-top,
 .padding-vertical {
-  padding-top: 10px; }
+ /*padding-top: 10px;*/ }
 
 .padding-right,
 .padding-horizontal {
