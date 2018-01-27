@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.darassa.darassamobile"
         versionCode = "20210"
-        version   = "3.4.0">
+        version   = "1.0.0">
     <name>Darassa Mobile</name>
 
     <description>
